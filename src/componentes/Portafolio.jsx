@@ -80,7 +80,7 @@ const Portafolio = () => {
       ],
       image: proyecto4,
       live: "",
-      github: "https://github.com/ErikGranda885/gslibros",
+      github: "https://github.com/ErikGranda885/Gestion_Biblioteca",
     },
     {
       num: "05",
