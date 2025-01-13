@@ -65,7 +65,7 @@ const Portafolio = () => {
       ],
       image: proyecto3,
       live: "",
-      github: "https://github.com/ErickGranda3756/App-JGO",
+      github: "https://github.com/ErikGranda885/App-JGO",
     },
     {
       num: "04",
@@ -80,7 +80,7 @@ const Portafolio = () => {
       ],
       image: proyecto4,
       live: "",
-      github: "https://github.com/ErickGranda3756/gslibros",
+      github: "https://github.com/ErikGranda885/gslibros",
     },
     {
       num: "05",

@@ -27,7 +27,7 @@ const Footer = () => {
             </h3>
             <div className="flex justify-center md:justify-start gap-6 text-4xl">
               <a
-                href="https://github.com/ErikGranda3756"
+                href="https://github.com/ErikGranda885"
                 aria-label="Github"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -35,7 +35,7 @@ const Footer = () => {
                 <FaGithubSquare />
               </a>
               <a
-                href="https://www.linkedin.com/in/erick-granda-324739318/"
+                href="https://www.linkedin.com/in/erik-granda-324739318"
                 aria-label="Linkedin"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -69,7 +69,7 @@ const Footer = () => {
           </nav>
         </div>
         <p className="text-gray-400 text-center mt-6 md:mt-12">
-          &copy; Created by Erick Granda. All rights reserved.
+          &copy; Created by Erik Granda. All rights reserved.
         </p>
       </footer>
     </Reveal>

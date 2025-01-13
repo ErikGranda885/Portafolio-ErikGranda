@@ -1,4 +1,3 @@
-import profilepic from "../assets/profpic.png";
 import { TypeAnimation } from "react-type-animation";
 import ShinyEffect from "./ShinyEffect";
 import {
@@ -71,7 +70,7 @@ const Hero = () => {
             className="flex flex-row items-center gap-6 my-4 md:mb-0"
           >
             <motion.a
-              href="https://drive.google.com/file/d/1qI6YTfXjnTRmCiNC9BKE1plxVrTi_2RW/view?usp=sharing"
+              href="https://drive.google.com/file/d/1KdMmTfqXqCZuT2uROsU36_4Q1aXEwUKi/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{
@@ -85,7 +84,7 @@ const Hero = () => {
             <div className="flex gap-6 flex-row text-4xl md:text-6xl text-purple-400 z-20">
               <motion.a
                 whileHover={{ scale: 1.2 }}
-                href="https://github.com/ErickGranda3756"
+                href="https://github.com/ErikGranda885"
                 target="_blank"
                 rel="noopener noreferrer"
               >
